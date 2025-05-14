@@ -30,12 +30,12 @@
 #### 백준
 
 - Baekjoon/donghyun-1/알고리즘폴더/문제번호.cpp
-- Baekjoon/aaa/알고리즘폴더/문제번호.cpp
+- Baekjoon/wongi/알고리즘폴더/문제번호.cpp
 
 #### 프로그래머스
 
 - Programmers/donghyun-1/알고리즘폴더/문제번호.cpp
-- Programmers/aaa/알고리즘폴더/문제번호.cpp
+- Programmers/wongi/알고리즘폴더/문제번호.cpp
 
 
 ## 일정표

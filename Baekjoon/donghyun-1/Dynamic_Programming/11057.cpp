@@ -19,20 +19,15 @@ int main()
     }
 
     for (int i = 2; i <= N; i++) {
-        //dp[i][0] = 1;
+        dp[i][0] = 1;
         for (int j = 0; j <= 9; j++) {
-             if (j == 0) {
-                dp[i][0] = 1;
-                continue;
-            }
-            else
-                dp[i][j] = (dp[i][j-1] + dp[i-1][j]) % 10007;
+            dp[i][j] = (dp[i][j-1] + dp[i-1][j]) % 10007;
         }
     }
 
     int ans = 0;
     for (int i = 0; i <= 9; i++) {
-        ans = (ans + dp[N][i]);
+        ans = (ans + dp[N][i]) % 10007;
     }
 
     cout << ans % 10007;

@@ -39,13 +39,13 @@
 
 
 ## 일정표
-
+   
 #### 2025-May
 
-|  **날짜**  |     **알고리즘**      |                        **문제**                               | **진행 현황** |
-| :--------: | :------------------: | :-----------------------------------------------------------: | :-----------: | 
-| 5/14       | Dynamic Programmig   | [이친수](https://www.acmicpc.net/problem/2193)                 | `진행 완료`   |
-| 5/15       | Dynamic Programmig   | [오르막 수](https://www.acmicpc.net/problem/11057)             | `진행 완료`   |
-| 5/16       | Dynamic Programmig   | [1,2,3 더하기 4](https://www.acmicpc.net/problem/15989)        | `진행 완료`   |
-| 5/17       | Dynamic Programmig   | [퇴사2](https://www.acmicpc.net/problem/15486)                 | `진행 완료`   |
-| 5/18       | Dynamic Programmig   | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)          | `진행 중`     |
+| 날짜 | 알고리즘 | 문제 | 진행 현황 |
+|:---:|:---:|:---:|:---:|
+| 05/14 | Dynamic Programmig | [이친수](https://www.acmicpc.net/problem/2193) | `진행 완료` |
+| 05/15 | Dynamic Programmig | [오르막 수](https://www.acmicpc.net/problem/11057) | `진행 완료` |
+| 05/16 | Dynamic Programmig | [1,2,3 더하기 4](https://www.acmicpc.net/problem/15989) | `진행 완료` |
+| 05/17 | Dynamic Programmig | [퇴사2](https://www.acmicpc.net/problem/15486) | `진행 완료` |
+| 05/18 | Dynamic Programmig | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | `진행 중` |

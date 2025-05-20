@@ -50,4 +50,5 @@
 | 05/17 | Dynamic Programmig | [퇴사2](https://www.acmicpc.net/problem/15486) | `진행 완료` |
 | 05/18 | Dynamic Programmig | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | `진행 완료` |
 | 05/19 | Simulation | [로봇 청소기](https://www.acmicpc.net/problem/14503) | `진행 완료` |
-| 05/19 | BFS/DFS | [안전 영역](https://www.acmicpc.net/problem/2468) | `진행 중` |
+| 05/20 | BFS/DFS | [안전 영역](https://www.acmicpc.net/problem/2468) | `진행 완료` |
+| 05/21 | BFS/DFS | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | `진행 중` |

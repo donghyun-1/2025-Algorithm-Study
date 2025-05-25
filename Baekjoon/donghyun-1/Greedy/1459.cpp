@@ -1,6 +1,6 @@
 // https://www.acmicpc.net/problem/1459
 // 걷기 (실버 3)
-// 2025-05-23
+// 2025-05-23 
 
 #include <iostream>
 

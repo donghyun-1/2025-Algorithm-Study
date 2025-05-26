@@ -54,6 +54,6 @@
 | 05/21 | BFS/DFS | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | `진행 완료` |
 | 05/22 | BFS/DFS | [영역 구하기](https://www.acmicpc.net/problem/2583) | `진행 완료` |
 | 05/23 | Greedy | [걷기](https://www.acmicpc.net/problem/1459) | `진행 중` |
-| 05/24 | BFS/DFS | [아기 상어 2](https://www.acmicpc.net/problem/17086) | `진행 중` |
+| 05/24 | BFS/DFS | [아기 상어 2](https://www.acmicpc.net/problem/17086) | `진행 완료` |
 | 05/25 | Greedy | [문서 검색](https://www.acmicpc.net/problem/1543) | `진행 중` |
 | 05/26 | Two Pointer | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | `진행 중` |

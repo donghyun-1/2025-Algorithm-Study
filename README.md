@@ -58,6 +58,7 @@
 | 05/25 | Greedy | [문서 검색](https://www.acmicpc.net/problem/1543) | `진행 완료` |
 | 05/26 | Two Pointer | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | `진행 완료` |
 | 05/27 | Dynamic Programmig | [카드 구매하기](https://www.acmicpc.net/problem/11052) | `진행 완료` |
-| 05/28 | Two Pointer | [소수의 연속합](https://www.acmicpc.net/problem/1644) | `진행 중` |
-| 05/29 | Back Tracking | [암호 만들기](https://www.acmicpc.net/problem/1759) | `진행 중` |
+| 05/28 | Two Pointer | [소수의 연속합](https://www.acmicpc.net/problem/1644) | `진행 완료` |
+| 05/29 | Back Tracking | [암호 만들기](https://www.acmicpc.net/problem/1759) | `진행 완료` |
+| 05/30 | Back Tracking | [로또](https://www.acmicpc.net/problem/6603) | `진행 중` |
 

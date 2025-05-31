@@ -1,4 +1,4 @@
-#include <algorithm>
+ï»¿#include <algorithm>
 #include <deque>
 #include <functional>
 #include <iostream>
@@ -46,7 +46,7 @@ void func(int k)
 	}
 	for (int i = 0; i < C; i++)
 	{
-		if (!isused[i]&& arr[k - 1] <= input[i])//Áõ°¡ÇÏ´Â ¾ÏÈ£. ¾ËÆÄºª ¼ø¼­
+		if (!isused[i]&& arr[k - 1] <= input[i])//ì¦ê°€í•˜ëŠ” ì•”í˜¸. ì•ŒíŒŒë²³ ìˆœì„œ
 		{
 			arr[k] = input[i];
 			isused[i] = 1;

@@ -40,7 +40,7 @@
 
 ## 일정표
    
-#### 2025-May
+#### 2025
 
 | 날짜 | 알고리즘 | 문제 | 진행 현황 |
 |:---:|:---:|:---:|:---:|
@@ -61,4 +61,5 @@
 | 05/28 | Two Pointer | [소수의 연속합](https://www.acmicpc.net/problem/1644) | `진행 완료` |
 | 05/29 | Back Tracking | [암호 만들기](https://www.acmicpc.net/problem/1759) | `진행 완료` |
 | 05/30 | Back Tracking | [로또](https://www.acmicpc.net/problem/6603) | `진행 완료` |
-
+| 05/31 | Graph | [결혼식](https://www.acmicpc.net/problem/5567) | `진행 중` |
+| 06/01 | BFS/DFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | `진행 중` |

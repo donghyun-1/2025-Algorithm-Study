@@ -69,8 +69,9 @@
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)
 #### [[예스24] 코딩 테스트 합격자 되기(C++ 편)](https://www.yes24.com/Product/Goods/126161512)
 #### [[알라딘] 코딩 테스트 합격자 되기(C++ 편)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338520895)
-#### 저자 박경록
 
 | Week | Study | Problem | Status |
 |:---:|:---:|:---:|:---:|
 | 1주 차 (25/06/09 ~ 25/06/09) | 코딩 테스트 필수 문법 | To be updated | `진행 예정` |
+
+#### 출처: 코딩 테스트 합격자 되기(C++ 편) - 저자 박경록

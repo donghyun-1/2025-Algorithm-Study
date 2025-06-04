@@ -6,7 +6,7 @@
 
 🗣️ **스터디 일정**: 매주 **월요일 / 수요일 / (토요일 또는 일요일)** 오후 8시
 
-🌐 **참고 사이트**: [Baekjoon Online Judge](https://www.acmicpc.net)
+🌐 **참고 사이트**: [Baekjoon Online Judge](https://www.acmicpc.net) / [programmers](https://programmers.co.kr/)
 
 💻 **사용 언어**: C++
 
@@ -65,7 +65,7 @@
 | 06/04 | Graph | [플로이드](https://www.acmicpc.net/problem/11404) | `진행 완료` |
 | 06/05 | Graph | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | `진행 중` |
 
-## 🌐 Programmers 코테합 - C++/파이썬 스터디 1기
+## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)
 #### [[예스24] 코딩 테스트 합격자 되기(C++ 편)](https://www.yes24.com/Product/Goods/126161512)
 #### [[알라딘] 코딩 테스트 합격자 되기(C++ 편)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338520895)

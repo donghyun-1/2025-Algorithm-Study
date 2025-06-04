@@ -64,4 +64,5 @@
 | 05/31 | Graph | [결혼식](https://www.acmicpc.net/problem/5567) | `진행 완료` |
 | 06/01 | BFS/DFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | `진행 완료` |
 | 06/02 | Graph | [회장뽑기](https://www.acmicpc.net/problem/2660) | `진행 완료` |
-| 06/03 | Graph | [경로 찾기](https://www.acmicpc.net/problem/11403) | `진행 중` |
+| 06/03 | Graph | [경로 찾기](https://www.acmicpc.net/problem/11403) | `진행 완료` |
+| 06/04 | Graph | [플로이드](https://www.acmicpc.net/problem/11404) | `진행 중` |

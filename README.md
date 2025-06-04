@@ -62,7 +62,7 @@
 | 06/01 | BFS/DFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | `진행 완료` |
 | 06/02 | Graph | [회장뽑기](https://www.acmicpc.net/problem/2660) | `진행 완료` |
 | 06/03 | Graph | [경로 찾기](https://www.acmicpc.net/problem/11403) | `진행 완료` |
-| 06/04 | Graph | [플로이드](https://www.acmicpc.net/problem/11404) | `진행 중` |
+| 06/04 | Graph | [플로이드](https://www.acmicpc.net/problem/11404) | `진행 완료` |
 | 06/05 | Graph | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | `진행 중` |
 
 ## 🌐 Programmers 코테합 - C++/파이썬 스터디 1기

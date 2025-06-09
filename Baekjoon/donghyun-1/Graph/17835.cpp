@@ -1,6 +1,6 @@
 // https://www.acmicpc.net/problem/17835
 // 면접보는 승범이네 (골드 2)
-// 2025-06-09
+// 2025-06-09 
 
 #include <iostream>
 #include <vector>

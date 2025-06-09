@@ -65,8 +65,10 @@
 | 06/04 | Graph | [플로이드](https://www.acmicpc.net/problem/11404) | `진행 완료` |
 | 06/05 | Graph | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | `진행 완료` |
 | 06/06 | Graph | [최단경로](https://www.acmicpc.net/problem/1753) | `진행 완료` |
-| 06/07 | Graph | [알고스팟](https://www.acmicpc.net/problem/1261) | `진행 중` |
+| 06/07 | Graph | [알고스팟](https://www.acmicpc.net/problem/1261) | `진행 완료` |
 | 06/08 | Graph | [중량제한](https://www.acmicpc.net/problem/1939) | `진행 중` |
+| 06/09 | Graph | [면접보는 승범이네](https://www.acmicpc.net/problem/17835) | `진행 중` |
+| 06/10 | Graph | [지름길](https://www.acmicpc.net/problem/1446) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)

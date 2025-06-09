@@ -8,6 +8,7 @@
 #include <algorithm>
 
 #define INF 1e18
+// or 10,000,000,000
 
 using namespace std;
 

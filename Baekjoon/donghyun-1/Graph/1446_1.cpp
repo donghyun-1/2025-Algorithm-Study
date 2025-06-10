@@ -1,6 +1,7 @@
 // https://www.acmicpc.net/problem/1446
 // 지름길 (실버 1)
 // 2025-06-10
+// 풀이1 : 1씩 이동하면서 dp로 갱신
 
 #include <iostream>
 #include <vector>

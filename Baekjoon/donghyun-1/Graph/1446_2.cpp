@@ -1,7 +1,7 @@
 // https://www.acmicpc.net/problem/1446
 // 지름길 (실버 1)
 // 2025-06-10
-// 풀이2 : 다익스트라 (수정 중)
+// 풀이2 : 다익스트라
 
 #include <iostream>
 #include <vector>

@@ -12,58 +12,62 @@
 
 using namespace std;
 
-typedef pair<int, pair<int, int>> pipii;
 typedef pair<int, int> pii;
 
 int N, D;
 vector<int> dist;
-vector<pipii> road;     // v[i] = {시작, {도착, 거리}}
+vector<vector<pii>> road;     // v[시작] = {도착, 거리}
 
 void input() {
     cin >> N >> D;
 
-    dist.resize(D+1, INF);
+    road.resize(D + 1);
+    dist.resize(D + 1, INF);
 
+    // 지름길 입력
     for (int i = 0; i < N; i++) {
         int start, end, dist;
         cin >> start >> end >> dist;
 
-        if (end - start <= dist) continue;      // 지름길 아님
+        // 지름길 아님
+        if (end - start <= dist) continue;
         if (end > D) continue;
 
-        road.push_back({start, {end, dist}});
+        road[start].push_back({end, dist});
+    }
+
+    // 1씩 이동
+    for (int i = 0; i < D; i++) {
+        road[i].push_back({i + 1, 1});
     }
 }
 
-int dijkstra(int start, int end) {
-    int curr_pos;
+void dijkstra(int start) {
     priority_queue<pii, vector<pii>, greater<>> pq;
-    pq.push({0, 0});  // 거리, 위치
+    dist[start] = 0;
+    pq.push({0, start});  // 거리, 위치
 
     while (!pq.empty()) {
         int curr_dist = pq.top().first;
-        curr_pos = pq.top().second;
+        int curr_pos = pq.top().second;
         pq.pop();
 
+        // 이미 방문
         if (dist[curr_pos] < curr_dist) continue;
 
-        for (int i = 0; i < road.size(); i++) {
-            if (road[i].first < curr_pos) continue;
-
-            int next_pos = road[i].second.first;
-            int next_dist = road[i].second.second + (road[i].first - curr_pos);
+        for (int i = 0; i < road[curr_pos].size(); i++) {
+            int next_pos = road[curr_pos][i].first;
+            int next_dist = road[curr_pos][i].second;
 
             if (dist[next_pos] > curr_dist + next_dist) {
                 dist[next_pos] = curr_dist + next_dist;
-            }
 
-            pq.push({dist[next_pos], next_pos});
+                // 갱신 될 때만 push
+                pq.push({dist[next_pos], next_pos});
+            }
         }
     }
-
-    return curr_pos;
 }
-
 
 int main()
 {
@@ -73,16 +77,9 @@ int main()
 
     input();
 
-    sort(road.begin(), road.end());
+    dijkstra(0);
 
-    int curr_pos = dijkstra(0, D);
-
-    if (curr_pos == D) {
-        cout << dist[curr_pos];
-    }
-    else {
-        cout << D - curr_pos + dist[curr_pos];
-    }
+    cout << dist[D];
 
     return 0;
 }

@@ -69,7 +69,8 @@
 | 06/08 | Graph | [중량제한](https://www.acmicpc.net/problem/1939) | `진행 중` |
 | 06/09 | Graph | [면접보는 승범이네](https://www.acmicpc.net/problem/17835) | `진행 완료` |
 | 06/10 | Graph | [지름길](https://www.acmicpc.net/problem/1446) | `진행 완료` |
-| 06/11 | Graph | [파티](https://www.acmicpc.net/problem/1238) | `진행 중` |
+| 06/11 | Graph | [파티](https://www.acmicpc.net/problem/1238) | `진행 완료` |
+| 06/12 | ?? | [A와 B 2](https://www.acmicpc.net/problem/12919) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)

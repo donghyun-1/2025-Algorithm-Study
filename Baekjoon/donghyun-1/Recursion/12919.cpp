@@ -1,3 +1,7 @@
+// https://www.acmicpc.net/problem/12919
+// A와 B 2 (골드 5)
+// 2025-06-12
+
 #include <iostream>
 #include <string>
 #include <algorithm>

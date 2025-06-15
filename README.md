@@ -74,6 +74,7 @@
 | 06/13 | Search | [수 찾기](https://www.acmicpc.net/problem/1920) | `진행 완료` |
 | 06/14 | BFS/DFS | [토마토](https://www.acmicpc.net/problem/7576) | `진행 완료` |
 | 06/15 | ?? | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | `진행 중` |
+| 06/16 | ?? | [토마토](https://www.acmicpc.net/problem/7569) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)
@@ -81,7 +82,8 @@
 #### [[알라딘] 코딩 테스트 합격자 되기(C++ 편)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338520895)
 
 | Week | Study | Problem | Status |
-|:---:|:---:|:---:|:---:|
-| 1주 차 (25/06/09 ~ 25/06/09) | 코딩 테스트 필수 문법 | To be updated | `진행 예정` |
+|:---:|:---:|---|:---:|
+| 1주 차 (25/06/09 ~ 25/06/15) | 코딩 테스트 필수 문법 | 기초 개념 & STL 정리 | `진행 완료` |
+| 2주 차 (25/06/16 ~ 25/06/22) | 배열 |                                                                                                                                   **01.** 배열 정렬하기 <br>                                                                                                                                                **02.** 배열 제어하기 <br>                                                                                                                                                **03.** [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) <br>                                                                        **04.** [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) <br>                                                                                   **05.** [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) <br>                                                                                **06.** [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br>                                                                                     **07.** [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)                                                                                            | `진행 중` |
 
 #### 출처: 코딩 테스트 합격자 되기(C++ 편) - 저자 박경록

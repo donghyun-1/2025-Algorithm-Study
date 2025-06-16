@@ -73,7 +73,7 @@
 | 06/12 | Recursion | [A와 B 2](https://www.acmicpc.net/problem/12919) | `진행 완료` |
 | 06/13 | Search | [수 찾기](https://www.acmicpc.net/problem/1920) | `진행 완료` |
 | 06/14 | BFS/DFS | [토마토](https://www.acmicpc.net/problem/7576) | `진행 완료` |
-| 06/15 | ?? | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | `진행 중` |
+| 06/15 | Two Pointer | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | `진행 완료` |
 | 06/16 | ?? | [토마토](https://www.acmicpc.net/problem/7569) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

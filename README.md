@@ -76,7 +76,7 @@
 | 06/15 | Two Pointer | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | `진행 완료` |
 | 06/16 | BFS/DFS | [토마토](https://www.acmicpc.net/problem/7569) | `진행 완료` |
 | 06/17 | ?? | [평범한 배낭](https://www.acmicpc.net/problem/12865) | `진행 중` |
-| 06/17 | ?? | [예산](https://www.acmicpc.net/problem/2512) | `진행 중` |
+| 06/18 | ?? | [예산](https://www.acmicpc.net/problem/2512) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)

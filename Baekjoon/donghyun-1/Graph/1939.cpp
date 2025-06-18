@@ -1,59 +1,64 @@
-// 푸는 중
+// https://www.acmicpc.net/problem/1939
+// 중량제한 (골드 3)
+// 2025-06-08
 
 #include <iostream>
 #include <vector>
 #include <queue>
+
+#define INF 1000000001
 
 using namespace std;
 
 typedef pair<int, int> pii;
 
 int N, M;
-int src, dst;
-vector<vector<pair<int, int>>> graph;
+int d1, d2;
+vector<vector<pii>> graph;
+vector<int> dist;
 
 void input() {
     cin >> N >> M;
-    
+
     graph.resize(N+1);
+    dist.resize(N+1, -1);       // 최대 무게
 
     for (int i = 0; i < M; i++) {
-        int a, b, weight;
-        cin >> a >> b >> weight;
+        int a, b, w;
+        cin >> a >> b >> w;
 
-        graph[a].push_back({weight, b});  // weight, node
-        graph[b].push_back({weight, a});
+        graph[a].push_back({w, b});
+        graph[b].push_back({w, a});
     }
 
-    cin >> src >> dst;
+    cin >> d1 >> d2;
 }
 
 void dijkstra(int src, int dst) {
     priority_queue<pii> pq;
-    vector<bool> visited(N+1, false);
+    pq.push({INF, src});
 
-    pq.push({0x7fff, src});
+    dist[src] = INF;
 
-    while(!pq.empty()) {
-        int curr_weight = pq.top().first;
+    while (!pq.empty()) {
+        int curr_w = pq.top().first;
         int curr_node = pq.top().second;
         pq.pop();
 
-        if (visited[curr_node]) continue;
-        visited[curr_node] = true;
-
-        if (curr_node == dst) {
-            cout << curr_weight;
-            return;
-        }
+        // 이미 더 큰 값 찾음
+        if (dist[curr_node] > curr_w) continue;
 
         for (int i = 0; i < graph[curr_node].size(); i++) {
-            int next_weight = graph[curr_node][i].first;
+            int next_w = graph[curr_node][i].first;
             int next_node = graph[curr_node][i].second;
 
-            int w = min(next_weight, curr_weight);
+            int w = min(curr_w, next_w);
 
-            pq.push({w, next_node});
+            if (dist[next_node] < w) {
+                dist[next_node] = w;
+
+                pq.push({dist[next_node], next_node});
+            }
         }
     }
 }
@@ -66,7 +71,9 @@ int main()
 
     input();
 
-    dijkstra(src, dst);
+    dijkstra(d1, d2);
+
+    cout << dist[d2];
 
     return 0;
 }

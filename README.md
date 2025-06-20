@@ -77,8 +77,9 @@
 | 06/16 | BFS/DFS | [토마토](https://www.acmicpc.net/problem/7569) | `진행 완료` |
 | 06/17 | Dynamic Programmig | [평범한 배낭](https://www.acmicpc.net/problem/12865) | `진행 완료` |
 | 06/18 | Search | [예산](https://www.acmicpc.net/problem/2512) | `진행 완료` |
-| 06/19 | ?? | [동전](https://www.acmicpc.net/problem/9084) | `진행 중` |
+| 06/19 | Dynamic Programming | [동전](https://www.acmicpc.net/problem/9084) | `진행 완료` |
 | 06/20 | ?? | [빗물](https://www.acmicpc.net/problem/14719) | `진행 중` |
+| 06/21 | ?? | [양치기 꿍](https://www.acmicpc.net/problem/3187) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)

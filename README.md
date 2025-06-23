@@ -79,7 +79,7 @@
 | 06/18 | Search | [예산](https://www.acmicpc.net/problem/2512) | `진행 완료` |
 | 06/19 | Dynamic Programming | [동전](https://www.acmicpc.net/problem/9084) | `진행 완료` |
 | 06/20 | Simulation | [빗물](https://www.acmicpc.net/problem/14719) | `진행 완료` |
-| 06/21 | ?? | [양치기 꿍](https://www.acmicpc.net/problem/3187) | `진행 중` |
+| 06/21 | BFS/DFS | [양치기 꿍](https://www.acmicpc.net/problem/3187) | `진행 완료` |
 | 06/22 | ?? | [회전 초밥](https://www.acmicpc.net/problem/2531) | `진행 중` |
 | 06/23 | ?? | [DNA 비밀번호](https://www.acmicpc.net/problem/12891) | `진행 중` |
 

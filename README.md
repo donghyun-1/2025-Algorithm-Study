@@ -80,7 +80,7 @@
 | 06/19 | Dynamic Programming | [동전](https://www.acmicpc.net/problem/9084) | `진행 완료` |
 | 06/20 | Simulation | [빗물](https://www.acmicpc.net/problem/14719) | `진행 완료` |
 | 06/21 | BFS/DFS | [양치기 꿍](https://www.acmicpc.net/problem/3187) | `진행 완료` |
-| 06/22 | ?? | [회전 초밥](https://www.acmicpc.net/problem/2531) | `진행 중` |
+| 06/22 | Two Pointer | [회전 초밥](https://www.acmicpc.net/problem/2531) | `진행 완료` |
 | 06/23 | ?? | [DNA 비밀번호](https://www.acmicpc.net/problem/12891) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

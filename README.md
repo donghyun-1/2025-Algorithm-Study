@@ -82,7 +82,7 @@
 | 06/21 | BFS/DFS | [양치기 꿍](https://www.acmicpc.net/problem/3187) | `진행 완료` |
 | 06/22 | Two Pointer | [회전 초밥](https://www.acmicpc.net/problem/2531) | `진행 완료` |
 | 06/23 | Two Pointer| [DNA 비밀번호](https://www.acmicpc.net/problem/12891) | `진행 완료` |
-| 06/24 | ?? | [컴백홈](https://www.acmicpc.net/problem/1189) | `진행 중` |
+| 06/24 | Back Tracking | [컴백홈](https://www.acmicpc.net/problem/1189) | `진행 완료` |
 | 06/25 | ?? | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

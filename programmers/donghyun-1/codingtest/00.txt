@@ -1,0 +1,6 @@
+코딩 테스트 합격자 되기 - C++편(저자 박경록) 문제 풀이
+
+[교재]
+https://product.kyobobook.co.kr/detail/S000213087020 (교보문고)
+https://www.yes24.com/Product/Goods/126161512 (예스24)
+https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338520895 (알라딘)

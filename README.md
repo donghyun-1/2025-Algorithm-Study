@@ -83,11 +83,11 @@
 | 06/22 | Two Pointer | [회전 초밥](https://www.acmicpc.net/problem/2531) | `진행 완료` |
 | 06/23 | Two Pointer| [DNA 비밀번호](https://www.acmicpc.net/problem/12891) | `진행 완료` |
 | 06/24 | Back Tracking | [컴백홈](https://www.acmicpc.net/problem/1189) | `진행 완료` |
-| 06/25 | ?? | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 중` |
+| 06/25 | ?? | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 완료` |
 | 06/26 | ?? | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | `진행 중` |
-| 06/27 | ?? | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 중` |
-| 06/28 | ?? | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 중` |
-| 06/29 | ?? | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 중` |
+| 06/27 | ?? | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 완료` |
+| 06/28 | ?? | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
+| 06/29 | ?? | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 완료` |
 | 06/30 | ?? | [봄버맨](https://www.acmicpc.net/problem/16918) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

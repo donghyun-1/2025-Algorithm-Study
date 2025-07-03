@@ -83,12 +83,17 @@
 | 06/22 | Two Pointer | [회전 초밥](https://www.acmicpc.net/problem/2531) | `진행 완료` |
 | 06/23 | Two Pointer| [DNA 비밀번호](https://www.acmicpc.net/problem/12891) | `진행 완료` |
 | 06/24 | Back Tracking | [컴백홈](https://www.acmicpc.net/problem/1189) | `진행 완료` |
-| 06/25 | ?? | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 완료` |
+| 06/25 | Recursion | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 완료` |
 | 06/26 | ?? | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | `진행 중` |
-| 06/27 | ?? | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 완료` |
-| 06/28 | ?? | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
-| 06/29 | ?? | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 완료` |
-| 06/30 | ?? | [봄버맨](https://www.acmicpc.net/problem/16918) | `진행 중` |
+| 06/27 | Graph | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 완료` |
+| 06/28 | Dynamic Programmig | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
+| 06/29 | Greedy | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 완료` |
+| 06/30 | Simulation | [봄버맨](https://www.acmicpc.net/problem/16918) | `진행 중` |
+| 07/01 | ?? | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | `진행 중` |
+| 07/02 | ?? | [랭킹전 대기열](https://www.acmicpc.net/problem/20006) | `진행 중` |
+| 07/03 | ?? | [숨바꼭질](https://www.acmicpc.net/problem/6118) | `진행 중` |
+| 07/04 | ?? | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | `진행 중` |
+
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)

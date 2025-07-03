@@ -50,7 +50,7 @@
 | 05/20 | BFS/DFS | [안전 영역](https://www.acmicpc.net/problem/2468) | `진행 완료` |
 | 05/21 | BFS/DFS | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | `진행 완료` |
 | 05/22 | BFS/DFS | [영역 구하기](https://www.acmicpc.net/problem/2583) | `진행 완료` |
-| 05/23 | Greedy | [걷기](https://www.acmicpc.net/problem/1459) | `진행 중` |
+| 05/23 | Greedy | [걷기](https://www.acmicpc.net/problem/1459) | ${\small{\color{red}진행\ 중}}$ |
 | 05/24 | BFS/DFS | [아기 상어 2](https://www.acmicpc.net/problem/17086) | `진행 완료` |
 | 05/25 | Greedy | [문서 검색](https://www.acmicpc.net/problem/1543) | `진행 완료` |
 | 05/26 | Two Pointer | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | `진행 완료` |
@@ -66,7 +66,7 @@
 | 06/05 | Graph | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | `진행 완료` |
 | 06/06 | Graph | [최단경로](https://www.acmicpc.net/problem/1753) | `진행 완료` |
 | 06/07 | Graph | [알고스팟](https://www.acmicpc.net/problem/1261) | `진행 완료` |
-| 06/08 | Graph | [중량제한](https://www.acmicpc.net/problem/1939) | `진행 중` |
+| 06/08 | Graph | [중량제한](https://www.acmicpc.net/problem/1939) | ${\small{\color{red}진행\ 중}}$ |
 | 06/09 | Graph | [면접보는 승범이네](https://www.acmicpc.net/problem/17835) | `진행 완료` |
 | 06/10 | Graph | [지름길](https://www.acmicpc.net/problem/1446) | `진행 완료` |
 | 06/11 | Graph | [파티](https://www.acmicpc.net/problem/1238) | `진행 완료` |
@@ -84,7 +84,7 @@
 | 06/23 | Two Pointer| [DNA 비밀번호](https://www.acmicpc.net/problem/12891) | `진행 완료` |
 | 06/24 | Back Tracking | [컴백홈](https://www.acmicpc.net/problem/1189) | `진행 완료` |
 | 06/25 | Recursion | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 완료` |
-| 06/26 | ?? | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | `진행 중` |
+| 06/26 | ?? | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | ${\small{\color{red}진행\ 중}}$ |
 | 06/27 | Graph | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 완료` |
 | 06/28 | Dynamic Programmig | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
 | 06/29 | Greedy | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 완료` |

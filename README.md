@@ -88,11 +88,12 @@
 | 06/27 | Graph | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 완료` |
 | 06/28 | Dynamic Programmig | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
 | 06/29 | Greedy | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 완료` |
-| 06/30 | Simulation | [봄버맨](https://www.acmicpc.net/problem/16918) | `진행 중` |
-| 07/01 | ?? | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | `진행 중` |
+| 06/30 | Simulation | [봄버맨](https://www.acmicpc.net/problem/16918) | `진행 완료` |
+| 07/01 | Graph | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | `진행 완료` |
 | 07/02 | ?? | [랭킹전 대기열](https://www.acmicpc.net/problem/20006) | `진행 중` |
-| 07/03 | ?? | [숨바꼭질](https://www.acmicpc.net/problem/6118) | `진행 중` |
+| 07/03 | Graph | [숨바꼭질](https://www.acmicpc.net/problem/6118) | `진행 완료` |
 | 07/04 | ?? | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | `진행 중` |
+| 07/05 | ?? | [로프](https://www.acmicpc.net/problem/2217) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

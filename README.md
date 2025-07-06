@@ -92,8 +92,9 @@
 | 07/01 | Graph | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | `진행 완료` |
 | 07/02 | ?? | [랭킹전 대기열](https://www.acmicpc.net/problem/20006) | `진행 중` |
 | 07/03 | Graph | [숨바꼭질](https://www.acmicpc.net/problem/6118) | `진행 완료` |
-| 07/04 | ?? | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | `진행 중` |
+| 07/04 | Two Pointer | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | `진행 완료` |
 | 07/05 | ?? | [로프](https://www.acmicpc.net/problem/2217) | `진행 중` |
+| 07/06 | ?? | [창고 다각형](https://www.acmicpc.net/problem/2304) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

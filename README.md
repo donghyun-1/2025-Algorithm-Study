@@ -50,7 +50,7 @@
 | 05/20 | BFS/DFS | [안전 영역](https://www.acmicpc.net/problem/2468) | `진행 완료` |
 | 05/21 | BFS/DFS | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | `진행 완료` |
 | 05/22 | BFS/DFS | [영역 구하기](https://www.acmicpc.net/problem/2583) | `진행 완료` |
-| 05/23 | Greedy | [걷기](https://www.acmicpc.net/problem/1459) | `진행 중` |
+| 05/23 | Greedy | [걷기](https://www.acmicpc.net/problem/1459) | ${\small{\color{red}진행\ 중}}$ |
 | 05/24 | BFS/DFS | [아기 상어 2](https://www.acmicpc.net/problem/17086) | `진행 완료` |
 | 05/25 | Greedy | [문서 검색](https://www.acmicpc.net/problem/1543) | `진행 완료` |
 | 05/26 | Two Pointer | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | `진행 완료` |
@@ -66,7 +66,7 @@
 | 06/05 | Graph | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | `진행 완료` |
 | 06/06 | Graph | [최단경로](https://www.acmicpc.net/problem/1753) | `진행 완료` |
 | 06/07 | Graph | [알고스팟](https://www.acmicpc.net/problem/1261) | `진행 완료` |
-| 06/08 | Graph | [중량제한](https://www.acmicpc.net/problem/1939) | `진행 중` |
+| 06/08 | Graph | [중량제한](https://www.acmicpc.net/problem/1939) | ${\small{\color{red}진행\ 중}}$ |
 | 06/09 | Graph | [면접보는 승범이네](https://www.acmicpc.net/problem/17835) | `진행 완료` |
 | 06/10 | Graph | [지름길](https://www.acmicpc.net/problem/1446) | `진행 완료` |
 | 06/11 | Graph | [파티](https://www.acmicpc.net/problem/1238) | `진행 완료` |
@@ -83,12 +83,19 @@
 | 06/22 | Two Pointer | [회전 초밥](https://www.acmicpc.net/problem/2531) | `진행 완료` |
 | 06/23 | Two Pointer| [DNA 비밀번호](https://www.acmicpc.net/problem/12891) | `진행 완료` |
 | 06/24 | Back Tracking | [컴백홈](https://www.acmicpc.net/problem/1189) | `진행 완료` |
-| 06/25 | ?? | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 완료` |
-| 06/26 | ?? | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | `진행 중` |
-| 06/27 | ?? | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 완료` |
-| 06/28 | ?? | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
-| 06/29 | ?? | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 완료` |
-| 06/30 | ?? | [봄버맨](https://www.acmicpc.net/problem/16918) | `진행 중` |
+| 06/25 | Recursion | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 완료` |
+| 06/26 | ?? | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | ${\small{\color{red}진행\ 중}}$ |
+| 06/27 | Graph | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 완료` |
+| 06/28 | Dynamic Programmig | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
+| 06/29 | Greedy | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 완료` |
+| 06/30 | Simulation | [봄버맨](https://www.acmicpc.net/problem/16918) | `진행 완료` |
+| 07/01 | Graph | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | `진행 완료` |
+| 07/02 | ?? | [랭킹전 대기열](https://www.acmicpc.net/problem/20006) | `진행 중` |
+| 07/03 | Graph | [숨바꼭질](https://www.acmicpc.net/problem/6118) | `진행 완료` |
+| 07/04 | Two Pointer | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | `진행 완료` |
+| 07/05 | ?? | [로프](https://www.acmicpc.net/problem/2217) | `진행 중` |
+| 07/06 | ?? | [창고 다각형](https://www.acmicpc.net/problem/2304) | `진행 중` |
+
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)
@@ -98,7 +105,7 @@
 | Week | Study | Problem | Status |
 |:---:|:---:|---|:---:|
 | 1주 차 (25/06/09 ~ 25/06/15) | 코딩 테스트 필수 문법 | 기초 개념 & STL 정리 | `진행 완료` |
-| 2주 차 (25/06/16 ~ 25/06/22) | 배열 |                                                                                                                                   **01.** 배열 정렬하기 <br>                                                                                                                                                **02.** 배열 제어하기 <br>                                                                                                                                                **03.** [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) <br>                                                                        **04.** [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) <br>                                                                                   **05.** [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) <br>                                                                                **06.** [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br>                                                                                     **07.** [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)                                                                                            | `진행 중` |
-| 3주 차 (25/06/23 ~ 25/06/29) | 스택 |                                                                                                                                   **08.** 괄호 짝 맞추기 <br>                                                                                                                                                **09.** 10진수를 2진수로 변환하기 <br>                                                                                                                                           **10.** [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) <br>                                                                            **11.** [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) <br>                                                                                 **12.** [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) <br>                                                                                 **13.** [크레인 인형 뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) <br>                                                                            **14.** [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)                                                                                             | `진행 중` |
+| 2주 차 (25/06/16 ~ 25/06/22) | 배열 |                                                                                                                                   **01.** 배열 정렬하기 <br>                                                                                                                                                **02.** 배열 제어하기 <br>                                                                                                                                                **03.** [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) <br>                                                                        **04.** [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) <br>                                                                                   **05.** [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) <br>                                                                                **06.** [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br>                                                                                     **07.** [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)                                                                                            | `진행 완료` |
+| 3주 차 (25/06/23 ~ 25/06/29) | 스택 |                                                                                                                                   **08.** 괄호 짝 맞추기 <br>                                                                                                                                                **09.** 10진수를 2진수로 변환하기 <br>                                                                                                                                           **10.** [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) <br>                                                                            **11.** [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) <br>                                                                                 **12.** [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) <br>                                                                                 **13.** [크레인 인형 뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) <br>                                                                            **14.** [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)                                                                                             | `진행 완료` |
 
 #### 출처: 코딩 테스트 합격자 되기(C++ 편) - 저자 박경록

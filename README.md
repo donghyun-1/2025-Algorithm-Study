@@ -41,11 +41,11 @@
 
 | MM/DD | Algorithm | Problem | Status |
 |:---:|:---:|:---:|:---:|
-| 05/14 | Dynamic Programmig | [이친수](https://www.acmicpc.net/problem/2193) | `진행 완료` |
-| 05/15 | Dynamic Programmig | [오르막 수](https://www.acmicpc.net/problem/11057) | `진행 완료` |
-| 05/16 | Dynamic Programmig | [1,2,3 더하기 4](https://www.acmicpc.net/problem/15989) | `진행 완료` |
-| 05/17 | Dynamic Programmig | [퇴사2](https://www.acmicpc.net/problem/15486) | `진행 완료` |
-| 05/18 | Dynamic Programmig | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | `진행 완료` |
+| 05/14 | Dynamic Programming | [이친수](https://www.acmicpc.net/problem/2193) | `진행 완료` |
+| 05/15 | Dynamic Programming | [오르막 수](https://www.acmicpc.net/problem/11057) | `진행 완료` |
+| 05/16 | Dynamic Programming | [1,2,3 더하기 4](https://www.acmicpc.net/problem/15989) | `진행 완료` |
+| 05/17 | Dynamic Programming | [퇴사2](https://www.acmicpc.net/problem/15486) | `진행 완료` |
+| 05/18 | Dynamic Programming | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | `진행 완료` |
 | 05/19 | Simulation | [로봇 청소기](https://www.acmicpc.net/problem/14503) | `진행 완료` |
 | 05/20 | BFS/DFS | [안전 영역](https://www.acmicpc.net/problem/2468) | `진행 완료` |
 | 05/21 | BFS/DFS | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | `진행 완료` |
@@ -54,7 +54,7 @@
 | 05/24 | BFS/DFS | [아기 상어 2](https://www.acmicpc.net/problem/17086) | `진행 완료` |
 | 05/25 | Greedy | [문서 검색](https://www.acmicpc.net/problem/1543) | `진행 완료` |
 | 05/26 | Two Pointer | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | `진행 완료` |
-| 05/27 | Dynamic Programmig | [카드 구매하기](https://www.acmicpc.net/problem/11052) | `진행 완료` |
+| 05/27 | Dynamic Programming | [카드 구매하기](https://www.acmicpc.net/problem/11052) | `진행 완료` |
 | 05/28 | Two Pointer | [소수의 연속합](https://www.acmicpc.net/problem/1644) | `진행 완료` |
 | 05/29 | Back Tracking | [암호 만들기](https://www.acmicpc.net/problem/1759) | `진행 완료` |
 | 05/30 | Back Tracking | [로또](https://www.acmicpc.net/problem/6603) | `진행 완료` |
@@ -75,7 +75,7 @@
 | 06/14 | BFS/DFS | [토마토](https://www.acmicpc.net/problem/7576) | `진행 완료` |
 | 06/15 | Two Pointer | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | `진행 완료` |
 | 06/16 | BFS/DFS | [토마토](https://www.acmicpc.net/problem/7569) | `진행 완료` |
-| 06/17 | Dynamic Programmig | [평범한 배낭](https://www.acmicpc.net/problem/12865) | `진행 완료` |
+| 06/17 | Dynamic Programming | [평범한 배낭](https://www.acmicpc.net/problem/12865) | `진행 완료` |
 | 06/18 | Search | [예산](https://www.acmicpc.net/problem/2512) | `진행 완료` |
 | 06/19 | Dynamic Programming | [동전](https://www.acmicpc.net/problem/9084) | `진행 완료` |
 | 06/20 | Simulation | [빗물](https://www.acmicpc.net/problem/14719) | `진행 완료` |
@@ -86,7 +86,7 @@
 | 06/25 | Recursion | [종이의 개수](https://www.acmicpc.net/problem/1780) | `진행 완료` |
 | 06/26 | ?? | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | ${\small{\color{red}진행\ 중}}$ |
 | 06/27 | Graph | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | `진행 완료` |
-| 06/28 | Dynamic Programmig | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
+| 06/28 | Dynamic Programming | [RGB거리](https://www.acmicpc.net/problem/1149) | `진행 완료` |
 | 06/29 | Greedy | [동전 0](https://www.acmicpc.net/problem/11047) | `진행 완료` |
 | 06/30 | Simulation | [봄버맨](https://www.acmicpc.net/problem/16918) | `진행 완료` |
 | 07/01 | Graph | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | `진행 완료` |

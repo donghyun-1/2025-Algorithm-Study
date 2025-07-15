@@ -94,7 +94,7 @@
 | 07/03 | Graph | [숨바꼭질](https://www.acmicpc.net/problem/6118) | `진행 완료` |
 | 07/04 | Two Pointer | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | `진행 완료` |
 | 07/05 | Greedy | [로프](https://www.acmicpc.net/problem/2217) | `진행 완료` |
-| 07/06 | ?? | [창고 다각형](https://www.acmicpc.net/problem/2304) | ${\small{\color{red}진행\ 중}}$ |
+| 07/06 | Simulation | [창고 다각형](https://www.acmicpc.net/problem/2304) | `진행 완료` |
 | 07/07 | BFS/DFS | [숨바꼭질](https://www.acmicpc.net/problem/1697) | `진행 완료` |
 | 07/08 | Greedy | [한 줄로 서기](https://www.acmicpc.net/problem/1138) | `진행 완료` |
 | 07/09 | Two Pointer | [과일 탕후루](https://www.acmicpc.net/problem/30804) | `진행 완료` |

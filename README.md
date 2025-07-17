@@ -104,7 +104,8 @@
 | 07/13 | BFS/DFS | [상범 빌딩](https://www.acmicpc.net/problem/6593) | `진행 완료` |
 | 07/14 | ?? | [암벽 등반](https://www.acmicpc.net/problem/2412) | `진행 중` |
 | 07/15 | Dynamic Programming | [기타리스트](https://www.acmicpc.net/problem/1495) | `진행 완료` |
-| 07/16 | ?? | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | `진행 중` |
+| 07/16 | BFS/DFS | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | `진행 완료` |
+| 07/17 | ?? | [신입 사원](https://www.acmicpc.net/problem/1946) | `진행 중` |
 
 
 

@@ -102,12 +102,13 @@
 | 07/11 | Back Tracking | [ABCDE](https://www.acmicpc.net/problem/13023) | `진행 완료` |
 | 07/12 | Implementation | [배열 돌리기](https://www.acmicpc.net/problem/17276) | `진행 완료` |
 | 07/13 | BFS/DFS | [상범 빌딩](https://www.acmicpc.net/problem/6593) | `진행 완료` |
-| 07/14 | ?? | [암벽 등반](https://www.acmicpc.net/problem/2412) | `진행 중` |
+| 07/14 | ?? | [암벽 등반](https://www.acmicpc.net/problem/2412) | ${\small{\color{red}진행\ 중}}$ |
 | 07/15 | Dynamic Programming | [기타리스트](https://www.acmicpc.net/problem/1495) | `진행 완료` |
 | 07/16 | BFS/DFS | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | `진행 완료` |
 | 07/17 | Greedy | [신입 사원](https://www.acmicpc.net/problem/1946) | `진행 완료` |
-| 07/18 | Dijkstra | [택배 배송](https://www.acmicpc.net/problem/1946) | `진행 완료` |
-| 07/19 | ?? | [집합의 표현](https://www.acmicpc.net/problem/1717) | `진행 중` |
+| 07/18 | Dijkstra(Graph) | [택배 배송](https://www.acmicpc.net/problem/1946) | `진행 완료` |
+| 07/19 | Graph | [집합의 표현](https://www.acmicpc.net/problem/1717) | `진행 완료` |
+| 07/20 | Greedy | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | `진행 완료` |
 
 
 

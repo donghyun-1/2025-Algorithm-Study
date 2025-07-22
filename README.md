@@ -109,7 +109,9 @@
 | 07/18 | Dijkstra(Graph) | [택배 배송](https://www.acmicpc.net/problem/1946) | `진행 완료` |
 | 07/19 | Graph | [집합의 표현](https://www.acmicpc.net/problem/1717) | `진행 완료` |
 | 07/20 | Greedy | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | `진행 완료` |
-
+| 07/21 | Dynamic Programming | [연속합 2](https://www.acmicpc.net/problem/13398) | `진행 완료` |
+| 07/22 | ?? | [랜선 자르기](https://www.acmicpc.net/problem/1654) | `진행 중` |
+| 07/23 | ?? | [LCS 2](https://www.acmicpc.net/problem/9252) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

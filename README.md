@@ -111,7 +111,9 @@
 | 07/20 | Greedy | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | `진행 완료` |
 | 07/21 | Dynamic Programming | [연속합 2](https://www.acmicpc.net/problem/13398) | `진행 완료` |
 | 07/22 | Search | [랜선 자르기](https://www.acmicpc.net/problem/1654) | `진행 완료` |
-| 07/23 | ?? | [LCS 2](https://www.acmicpc.net/problem/9252) | `진행 중` |
+| 07/23 | Dynamic Programming | [LCS 2](https://www.acmicpc.net/problem/9252) | `진행 완료` |
+| 07/24 | ?? | [트리의 지름](https://www.acmicpc.net/problem/1967) | `진행 중` |
+| 07/25 | ?? | [나무 탈출](https://www.acmicpc.net/problem/15900) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

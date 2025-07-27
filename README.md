@@ -112,8 +112,11 @@
 | 07/21 | Dynamic Programming | [연속합 2](https://www.acmicpc.net/problem/13398) | `진행 완료` |
 | 07/22 | Search | [랜선 자르기](https://www.acmicpc.net/problem/1654) | `진행 완료` |
 | 07/23 | Dynamic Programming | [LCS 2](https://www.acmicpc.net/problem/9252) | `진행 완료` |
-| 07/24 | ?? | [트리의 지름](https://www.acmicpc.net/problem/1967) | `진행 중` |
-| 07/25 | ?? | [나무 탈출](https://www.acmicpc.net/problem/15900) | `진행 중` |
+| 07/24 | Graph | [트리의 지름](https://www.acmicpc.net/problem/1967) | `진행 완료` |
+| 07/25 | BFS/DFS | [나무 탈출](https://www.acmicpc.net/problem/15900) | `진행 완료` |
+| 07/26 | Implementation | [단축키 지정](https://www.acmicpc.net/problem/1283) | `진행 완료` |
+| 07/27 | Two Pointer | [두 용액](https://www.acmicpc.net/problem/2470) | `진행 완료` |
+| 07/28 | ?? | [알파벳](https://www.acmicpc.net/problem/1987) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

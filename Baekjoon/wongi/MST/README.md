@@ -8,7 +8,7 @@
 
 &nbsp;	--> N개의 노드가 있으면 최소 신장 트리를 구성하는 간선의 개수는 항상 N-1개다.
 
-&nbsp;	!\[Image](https://github.com/user-attachments/assets/23ecfee3-6c3e-4775-a31f-1309cf05fb31)
+&nbsp;	![Image](https://github.com/user-attachments/assets/add8b7a4-8a77-4f94-9ecf-f89837c13dc1)
 
 * 최소 신장 트리의 핵심 이론
 
@@ -16,7 +16,7 @@
 
 &nbsp;	- 데이터를 노드가 아닌 간선 중심으로 저장함
 
-&nbsp;     !\[Image](https://github.com/user-attachments/assets/0fa60897-a8ed-43a0-830c-f07d5f429ee2)
+&nbsp;    ![Image](https://github.com/user-attachments/assets/0fa60897-a8ed-43a0-830c-f07d5f429ee2)
 
 &nbsp;   2. 그래프 데이터를 가중치 기준으로 정렬하기
 
@@ -36,7 +36,7 @@
 
 &nbsp;	전체 노드의 개수가 n개 이면 연결한 에지의 개수가 n-1이 될 때까지 과정 3을 반복
 
-&nbsp;	!\[Image](https://github.com/user-attachments/assets/e84c4505-ac17-4079-a3be-809aa621c523)
+&nbsp;	![Image](https://github.com/user-attachments/assets/e84c4505-ac17-4079-a3be-809aa621c523)
 
 &nbsp;    5. 총 에지 비용 출력 
 

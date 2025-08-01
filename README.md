@@ -117,9 +117,11 @@
 | 07/26 | Implementation | [단축키 지정](https://www.acmicpc.net/problem/1283) | `진행 완료` |
 | 07/27 | Two Pointer | [두 용액](https://www.acmicpc.net/problem/2470) | `진행 완료` |
 | 07/28 | Back Tracking | [알파벳](https://www.acmicpc.net/problem/1987) | `진행 완료` |
-| 07/29 | ?? | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | `진행 중` |
-| 07/30 | ?? | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | `진행 중` |
-
+| 07/29 | MST | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | `진행 완료` |
+| 07/30 | Sliding Window | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | `진행 완료` |
+| 07/31 | ?? | [스타트링크](https://www.acmicpc.net/problem/5014) | `진행 중` |
+| 08/01 | ?? | [볼 모으기](https://www.acmicpc.net/problem/17615) | `진행 중` |
+| 08/02 | ?? | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | `진행 중` |
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)

@@ -119,7 +119,7 @@
 | 07/28 | Back Tracking | [알파벳](https://www.acmicpc.net/problem/1987) | `진행 완료` |
 | 07/29 | MST | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | `진행 완료` |
 | 07/30 | Sliding Window | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | `진행 완료` |
-| 07/31 | ?? | [스타트링크](https://www.acmicpc.net/problem/5014) | `진행 중` |
+| 07/31 | BFS/DFS | [스타트링크](https://www.acmicpc.net/problem/5014) | `진행 완료` |
 | 08/01 | ?? | [볼 모으기](https://www.acmicpc.net/problem/17615) | `진행 중` |
 | 08/02 | ?? | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | `진행 중` |
 

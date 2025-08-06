@@ -120,8 +120,13 @@
 | 07/29 | MST | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | `진행 완료` |
 | 07/30 | Sliding Window | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | `진행 완료` |
 | 07/31 | BFS/DFS | [스타트링크](https://www.acmicpc.net/problem/5014) | `진행 완료` |
-| 08/01 | ?? | [볼 모으기](https://www.acmicpc.net/problem/17615) | `진행 중` |
-| 08/02 | ?? | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | `진행 중` |
+| 08/01 | Greedy | [볼 모으기](https://www.acmicpc.net/problem/17615) | `진행 완료` |
+| 08/02 | Dynamic Programming | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | `진행 완료` |
+| 08/03 | BFS/DFS | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | `진행 완료` |
+| 08/04 | BFS/DFS | [아기 상어](https://www.acmicpc.net/problem/16236) | `진행 완료` |
+| 08/05 | ?? | [나무 자르기](https://www.acmicpc.net/problem/2805) | `진행 중` |
+| 08/06 | ?? | [기타 레슨](https://www.acmicpc.net/problem/2343) | `진행 중` |
+
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)

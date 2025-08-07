@@ -126,6 +126,8 @@
 | 08/04 | BFS/DFS | [아기 상어](https://www.acmicpc.net/problem/16236) | `진행 완료` |
 | 08/05 | ?? | [나무 자르기](https://www.acmicpc.net/problem/2805) | `진행 중` |
 | 08/06 | ?? | [기타 레슨](https://www.acmicpc.net/problem/2343) | `진행 중` |
+| 08/07 | ?? | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | `진행 중` |
+| 08/08 | ?? | [연속합](https://www.acmicpc.net/problem/1912) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

@@ -102,7 +102,7 @@
 | 07/11 | Back Tracking | [ABCDE](https://www.acmicpc.net/problem/13023) | `진행 완료` |
 | 07/12 | Implementation | [배열 돌리기](https://www.acmicpc.net/problem/17276) | `진행 완료` |
 | 07/13 | BFS/DFS | [상범 빌딩](https://www.acmicpc.net/problem/6593) | `진행 완료` |
-| 07/14 | ?? | [암벽 등반](https://www.acmicpc.net/problem/2412) | ${\small{\color{red}진행\ 중}}$ |
+| 07/14 | BFS/DFS | [암벽 등반](https://www.acmicpc.net/problem/2412) | `진행 완료` |
 | 07/15 | Dynamic Programming | [기타리스트](https://www.acmicpc.net/problem/1495) | `진행 완료` |
 | 07/16 | BFS/DFS | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | `진행 완료` |
 | 07/17 | Greedy | [신입 사원](https://www.acmicpc.net/problem/1946) | `진행 완료` |
@@ -124,10 +124,11 @@
 | 08/02 | Dynamic Programming | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | `진행 완료` |
 | 08/03 | BFS/DFS | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | `진행 완료` |
 | 08/04 | BFS/DFS | [아기 상어](https://www.acmicpc.net/problem/16236) | `진행 완료` |
-| 08/05 | ?? | [나무 자르기](https://www.acmicpc.net/problem/2805) | `진행 중` |
-| 08/06 | ?? | [기타 레슨](https://www.acmicpc.net/problem/2343) | `진행 중` |
+| 08/05 | Search | [나무 자르기](https://www.acmicpc.net/problem/2805) | `진행 완료` |
+| 08/06 | Search | [기타 레슨](https://www.acmicpc.net/problem/2343) | `진행 완료` |
 | 08/07 | ?? | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | `진행 중` |
-| 08/08 | ?? | [연속합](https://www.acmicpc.net/problem/1912) | `진행 중` |
+| 08/08 | Dynamic Programming | [연속합](https://www.acmicpc.net/problem/1912) | `진행 완료` |
+| 08/09 | String | [가희와 키워드](https://www.acmicpc.net/problem/22233) | `진행 완료` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

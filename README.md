@@ -126,9 +126,10 @@
 | 08/04 | BFS/DFS | [아기 상어](https://www.acmicpc.net/problem/16236) | `진행 완료` |
 | 08/05 | Search | [나무 자르기](https://www.acmicpc.net/problem/2805) | `진행 완료` |
 | 08/06 | Search | [기타 레슨](https://www.acmicpc.net/problem/2343) | `진행 완료` |
-| 08/07 | ?? | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | `진행 중` |
+| 08/07 | Back Tracking | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | `진행 완료` |
 | 08/08 | Dynamic Programming | [연속합](https://www.acmicpc.net/problem/1912) | `진행 완료` |
 | 08/09 | String | [가희와 키워드](https://www.acmicpc.net/problem/22233) | `진행 완료` |
+| 08/19 | Data Structure | [최대 힙](https://www.acmicpc.net/problem/11279) | `진행 완료` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

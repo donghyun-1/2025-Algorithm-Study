@@ -130,7 +130,7 @@
 | 08/08 | Dynamic Programming | [연속합](https://www.acmicpc.net/problem/1912) | `진행 완료` |
 | 08/09 | String | [가희와 키워드](https://www.acmicpc.net/problem/22233) | `진행 완료` |
 | 08/19 | Data Structure | [최대 힙](https://www.acmicpc.net/problem/11279) | `진행 완료` |
-| 08/20 | ?? | [회의실 배정](https://www.acmicpc.net/problem/1931) | `진행 중` |
+| 08/20 | Greedy | [회의실 배정](https://www.acmicpc.net/problem/1931) | `진행 완료` |
 | 08/21 | ?? | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | `진행 중` |
 
 

@@ -133,6 +133,9 @@
 | 08/20 | Greedy | [회의실 배정](https://www.acmicpc.net/problem/1931) | `진행 완료` |
 | 08/21 | BFS/DFS | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | `진행 완료` |
 | 08/22 | ?? | [루나의 게임 세팅](https://www.acmicpc.net/problem/25345) | `진행 중` |
+| 08/23 | ?? | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | `진행 중` |
+| 08/24 | ?? | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | `진행 중` |
+| 08/25 | ?? | [단어 수학](https://www.acmicpc.net/problem/1339) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

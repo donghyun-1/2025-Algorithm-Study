@@ -1,3 +1,7 @@
+// https://www.acmicpc.net/problem/7662
+// 이중 우선순위 큐 (골드 4)
+// 2025-08-24
+
 #include <iostream>
 #include <queue>
 #include <deque>

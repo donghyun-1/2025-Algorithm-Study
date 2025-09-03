@@ -138,7 +138,8 @@
 | 08/25 | Greedy | [단어 수학](https://www.acmicpc.net/problem/1339) | `진행 완료` |
 | 08/29 | Back Tracking | [부등호](https://www.acmicpc.net/problem/2529) | `진행 완료` |
 | 09/01 | BFS/DFS | [적록색약](https://www.acmicpc.net/problem/10026) | `진행 완료` |
-| 09/02 | ?? | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | `진행 중` |
+| 09/02 | Dijkstra(Graph) | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | `진행 완료` |
+| 09/03 | ?? | [차이를 최대로](https://www.acmicpc.net/problem/10819) | `진행 중` |
 
 
 

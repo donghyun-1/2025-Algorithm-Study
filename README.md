@@ -139,8 +139,10 @@
 | 08/29 | Back Tracking | [부등호](https://www.acmicpc.net/problem/2529) | `진행 완료` |
 | 09/01 | BFS/DFS | [적록색약](https://www.acmicpc.net/problem/10026) | `진행 완료` |
 | 09/02 | Dijkstra(Graph) | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | `진행 완료` |
-| 09/03 | ?? | [차이를 최대로](https://www.acmicpc.net/problem/10819) | `진행 중` |
-
+| 09/03 | Back Tracking | [차이를 최대로](https://www.acmicpc.net/problem/10819) | `진행 완료` |
+| 09/04 | ?? | [줄 세우기](https://www.acmicpc.net/problem/2252) | `진행 중` |
+| 09/05 | BFS/DFS | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `진행 완료` |
+| 09/06 | ?? | [A → B](https://www.acmicpc.net/problem/16953) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

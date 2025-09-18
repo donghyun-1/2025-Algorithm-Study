@@ -143,6 +143,9 @@
 | 09/04 | ?? | [줄 세우기](https://www.acmicpc.net/problem/2252) | `진행 중` |
 | 09/05 | BFS/DFS | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `진행 완료` |
 | 09/06 | ?? | [A → B](https://www.acmicpc.net/problem/16953) | `진행 중` |
+| 09/16 | ?? | [수 고르기](https://www.acmicpc.net/problem/2230) | `진행 중` |
+| 09/17 | ?? | [호반우가 학교에 지각한 이유 2](https://www.acmicpc.net/problem/30469) | `진행 중` |
+| 09/18 | ?? | [불!](https://www.acmicpc.net/problem/4179) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

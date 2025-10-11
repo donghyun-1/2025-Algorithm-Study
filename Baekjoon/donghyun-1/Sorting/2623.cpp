@@ -29,7 +29,7 @@ void input() {
 			}
 			else {
 				cin >> curr;
-				pr[curr]++;
+				pr[curr]++;		// pr[curr] = pr[prev] + 1;
 				graph[prev].push_back(curr);
 
 				prev = curr;

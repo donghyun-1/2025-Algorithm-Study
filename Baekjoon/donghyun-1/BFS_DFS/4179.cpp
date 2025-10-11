@@ -75,7 +75,7 @@ void bfs() {
 		q.pop();
 
 		if (curr.row == R-1 || curr.col == C-1 || curr.row == 0 || curr.col == 0) {
-			if (curr.cnt <= fire_time[curr.row][curr.col]) {
+			if (curr.cnt < fire_time[curr.row][curr.col]) {
 				cout << curr.cnt + 1;
 				return;
 			}
@@ -87,7 +87,7 @@ void bfs() {
 			if (visited[nr][nc]) continue;
 			if (board[nr][nc] == 'F' || board[nr][nc] == '#') continue;
 			
-			if (curr.cnt + 1 <= fire_time[nr][nc]) {
+			if (curr.cnt + 1 < fire_time[nr][nc]) {
 				visited[nr][nc] = true;
 				q.push({nr, nc, curr.cnt+1});
 			}

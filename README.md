@@ -144,12 +144,12 @@
 | 09/05 | BFS/DFS | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `진행 완료` |
 | 09/06 | BFS/DFS | [A → B](https://www.acmicpc.net/problem/16953) | `진행 완료` |
 | 09/16 | Two Pointer | [수 고르기](https://www.acmicpc.net/problem/2230) | `진행 완료` |
-| 09/17 | ?? | [호반우가 학교에 지각한 이유 2](https://www.acmicpc.net/problem/30469) | `진행 중` |
-| 09/18 | ?? | [불!](https://www.acmicpc.net/problem/4179) | `진행 중` |
+| 09/17 | ?? | [호반우가 학교에 지각한 이유 2](https://www.acmicpc.net/problem/30469) | ${\small{\color{red}진행\ 중}}$ |
+| 09/18 | ?? | [불!](https://www.acmicpc.net/problem/4179) | ${\small{\color{red}진행\ 중}}$ |
 | 09/30 | Divide & Conquer | [쿼드트리](https://www.acmicpc.net/problem/1992) | `진행 완료` |
 | 10/01 | BFS/DFS | [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | `진행 완료` |
 | 10/02 | Divide & Conquer | [색종이 만들기](https://www.acmicpc.net/problem/2630) | `진행 완료` |
-| 10/03 | ?? | [줄 세우기](https://www.acmicpc.net/problem/2252) | `진행 중` |
+| 10/03 | ?? | [줄 세우기](https://www.acmicpc.net/problem/2252) | ${\small{\color{red}진행\ 중}}$ |
 | 10/04 | Back Tracking | [N-Queen](https://www.acmicpc.net/problem/9663) | `진행 완료` |
 | 10/05 | Simulation | [트럭](https://www.acmicpc.net/problem/13335) | `진행 완료` |
 | 10/06 | ?? | [물통](https://www.acmicpc.net/problem/2251) | `진행 중` |

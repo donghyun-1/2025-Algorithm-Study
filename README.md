@@ -140,7 +140,7 @@
 | 09/01 | BFS/DFS | [적록색약](https://www.acmicpc.net/problem/10026) | `진행 완료` |
 | 09/02 | Dijkstra(Graph) | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | `진행 완료` |
 | 09/03 | Back Tracking | [차이를 최대로](https://www.acmicpc.net/problem/10819) | `진행 완료` |
-| 09/04 | ${\small{\color{red}--}}$ | ${\small{\color{red}10/13로\ 이동}}$ | ${\small{\color{red}--}}$ |
+| 09/04 | ${\small{\color{red}--}}$ | ${\small{\color{red}10/03일로\ 이동}}$ | ${\small{\color{red}--}}$ |
 | 09/05 | BFS/DFS | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `진행 완료` |
 | 09/06 | BFS/DFS | [A → B](https://www.acmicpc.net/problem/16953) | `진행 완료` |
 | 09/16 | Two Pointer | [수 고르기](https://www.acmicpc.net/problem/2230) | `진행 완료` |
@@ -156,9 +156,13 @@
 | 10/07 | ?? | [테트로미노](https://www.acmicpc.net/problem/14500) | `진행 중` |
 | 10/08 | Sorting | [음악프로그램](https://www.acmicpc.net/problem/2623) | `진행 완료` |
 | 10/09 | Back Tracking | [N과 M (12)](https://www.acmicpc.net/problem/15666) | `진행 완료` |
-| 10/10 | ?? | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | `진행 중` |
-| 10/11 | ?? | [Z](https://www.acmicpc.net/problem/1074) | `진행 중` |
+| 10/10 | ${\small{\color{red}--}}$ | ${\small{\color{red}10/13일로\ 이동}}$ | ${\small{\color{red}--}}$ |
+| 10/11 | Divide & Conquer | [Z](https://www.acmicpc.net/problem/1074) | `진행 완료` |
 | 10/12 | ?? | [퇴사](https://www.acmicpc.net/problem/14501) | `진행 중` |
+| 10/13 | ?? | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | `진행 중` |
+| 10/15 | Two Pointer | [용액](https://www.acmicpc.net/problem/2467) | `진행 완료` |
+| 10/16 | ?? | [호텔](https://www.acmicpc.net/problem/1106) | `진행 중` |
+
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기
 #### [[교보문고] 코딩 테스트 합격자 되기(C++ 편)](https://product.kyobobook.co.kr/detail/S000213087020)

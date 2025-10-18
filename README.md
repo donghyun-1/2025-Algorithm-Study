@@ -153,15 +153,15 @@
 | 10/04 | Back Tracking | [N-Queen](https://www.acmicpc.net/problem/9663) | `진행 완료` |
 | 10/05 | Simulation | [트럭](https://www.acmicpc.net/problem/13335) | `진행 완료` |
 | 10/06 | BFS/DFS | [물통](https://www.acmicpc.net/problem/2251) | `진행 완료` |
-| 10/07 | ?? | [테트로미노](https://www.acmicpc.net/problem/14500) | `진행 중` |
+| 10/07 | Implementation | [테트로미노](https://www.acmicpc.net/problem/14500) | `진행 완료` |
 | 10/08 | Sorting | [음악프로그램](https://www.acmicpc.net/problem/2623) | `진행 완료` |
 | 10/09 | Back Tracking | [N과 M (12)](https://www.acmicpc.net/problem/15666) | `진행 완료` |
 | 10/10 | ${\small{\color{red}--}}$ | ${\small{\color{red}10/13일로\ 이동}}$ | ${\small{\color{red}--}}$ |
 | 10/11 | Divide & Conquer | [Z](https://www.acmicpc.net/problem/1074) | `진행 완료` |
 | 10/12 | ?? | [퇴사](https://www.acmicpc.net/problem/14501) | `진행 중` |
-| 10/13 | ?? | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | `진행 중` |
+| 10/13 | Sorting | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | `진행 완료` |
 | 10/15 | Two Pointer | [용액](https://www.acmicpc.net/problem/2467) | `진행 완료` |
-| 10/16 | ?? | [호텔](https://www.acmicpc.net/problem/1106) | `진행 중` |
+| 10/16 | Dynamic Programming | [호텔](https://www.acmicpc.net/problem/1106) | `진행 완료` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

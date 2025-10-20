@@ -162,6 +162,8 @@
 | 10/13 | Sorting | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | `진행 완료` |
 | 10/15 | Two Pointer | [용액](https://www.acmicpc.net/problem/2467) | `진행 완료` |
 | 10/16 | Dynamic Programming | [호텔](https://www.acmicpc.net/problem/1106) | `진행 완료` |
+| 10/18 | ?? | [ATM](https://www.acmicpc.net/problem/11399) | `진행 중` |
+| 10/20 | Simulation | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | `진행 완료` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

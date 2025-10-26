@@ -1,6 +1,6 @@
 // https://www.acmicpc.net/problem/14284
 // 간선 이어가기 2 (골드 5)
-// 2025-10-26
+// 2025-10-22
 
 #include <iostream>
 #include <vector>

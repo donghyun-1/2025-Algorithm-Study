@@ -164,9 +164,11 @@
 | 10/16 | Dynamic Programming | [호텔](https://www.acmicpc.net/problem/1106) | `진행 완료` |
 | 10/18 | ?? | [ATM](https://www.acmicpc.net/problem/11399) | `진행 중` |
 | 10/20 | Simulation | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | `진행 완료` |
-| 10/22 | ?? | [간선 이어가기 2](https://www.acmicpc.net/problem/14284) | `진행 완료` |
-| 10/24 | ?? | [연구소](https://www.acmicpc.net/problem/14502) | `진행 완료` |
-| 10/25 | ?? | [팀 빌딩](https://www.acmicpc.net/problem/22945) | `진행 완료` |
+| 10/22 | Graph | [간선 이어가기 2](https://www.acmicpc.net/problem/14284) | `진행 완료` |
+| 10/24 | BFS/DFS | [연구소](https://www.acmicpc.net/problem/14502) | `진행 완료` |
+| 10/25 | Two Pointer | [팀 빌딩](https://www.acmicpc.net/problem/22945) | `진행 완료` |
+| 10/27 | ?? | [저울](https://www.acmicpc.net/problem/10159) | `진행 중` |
+| 10/29 | ?? | [버블 소트](https://www.acmicpc.net/problem/1517) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

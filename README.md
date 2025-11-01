@@ -158,17 +158,19 @@
 | 10/09 | Back Tracking | [N과 M (12)](https://www.acmicpc.net/problem/15666) | `진행 완료` |
 | 10/10 | ${\small{\color{red}--}}$ | ${\small{\color{red}10/13일로\ 이동}}$ | ${\small{\color{red}--}}$ |
 | 10/11 | Divide & Conquer | [Z](https://www.acmicpc.net/problem/1074) | `진행 완료` |
-| 10/12 | ?? | [퇴사](https://www.acmicpc.net/problem/14501) | `진행 중` |
+| 10/12 | ?? | [퇴사](https://www.acmicpc.net/problem/14501) | ${\small{\color{red}진행\ 중}}$ |
 | 10/13 | Sorting | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | `진행 완료` |
 | 10/15 | Two Pointer | [용액](https://www.acmicpc.net/problem/2467) | `진행 완료` |
 | 10/16 | Dynamic Programming | [호텔](https://www.acmicpc.net/problem/1106) | `진행 완료` |
-| 10/18 | ?? | [ATM](https://www.acmicpc.net/problem/11399) | `진행 중` |
+| 10/18 | Greedy | [ATM](https://www.acmicpc.net/problem/11399) | `진행 완료` |
 | 10/20 | Simulation | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | `진행 완료` |
 | 10/22 | Graph | [간선 이어가기 2](https://www.acmicpc.net/problem/14284) | `진행 완료` |
 | 10/24 | BFS/DFS | [연구소](https://www.acmicpc.net/problem/14502) | `진행 완료` |
 | 10/25 | Two Pointer | [팀 빌딩](https://www.acmicpc.net/problem/22945) | `진행 완료` |
 | 10/27 | ?? | [저울](https://www.acmicpc.net/problem/10159) | `진행 중` |
 | 10/29 | ?? | [버블 소트](https://www.acmicpc.net/problem/1517) | `진행 중` |
+| 10/31 | Greedy | [수리공 항승](https://www.acmicpc.net/problem/1449) | `진행 완료` |
+| 11/01 | ?? | [설탕 배달](https://www.acmicpc.net/problem/2839) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

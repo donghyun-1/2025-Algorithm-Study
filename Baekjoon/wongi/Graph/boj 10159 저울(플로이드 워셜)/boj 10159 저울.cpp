@@ -46,11 +46,11 @@ int main()
         cin >> start >> end;
         isVisited[start][end] = true;
     }
-    for (int i = 1; i <= n; i++)
+    for (int i = 1; i <= n; i++)// i 경유
     {
-        for (int j = 1; j <= n; j++)
+        for (int j = 1; j <= n; j++) // j 에서 시작
         {
-            for (int k = 1; k <= n; k++)
+            for (int k = 1; k <= n; k++)// k 까지.
             {
                 if (isVisited[j][i] && isVisited[i][k])
                 {

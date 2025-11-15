@@ -1,7 +1,6 @@
 // https://www.acmicpc.net/problem/2839
 // 설탕 배달 (실버 4)
 // 2025-11-01
-// test
 
 #include <iostream>
 

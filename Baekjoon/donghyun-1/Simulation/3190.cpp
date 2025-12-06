@@ -1,5 +1,5 @@
 // https://www.acmicpc.net/problem/3190
-// 뱀 (골드 4)
+// 뱀 (골드 4) 
 // 2025-11-08
 
 #include <iostream>

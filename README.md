@@ -168,7 +168,7 @@
 | 10/24 | BFS/DFS | [연구소](https://www.acmicpc.net/problem/14502) | `진행 완료` |
 | 10/25 | Two Pointer | [팀 빌딩](https://www.acmicpc.net/problem/22945) | `진행 완료` |
 | 10/27 | Graph | [저울](https://www.acmicpc.net/problem/10159) | `진행 완료` |
-| 10/29 | ?? | [버블 소트](https://www.acmicpc.net/problem/1517) | ${\small{\color{red}진행\ 중}}$ |
+| 10/29 | ${\small{\color{red}--}}$ | ${\small{\color{red}11/17일로\ 이동}}$ | ${\small{\color{red}--}}$ |
 | 10/31 | Greedy | [수리공 항승](https://www.acmicpc.net/problem/1449) | `진행 완료` |
 | 11/01 | Dynamic Programming | [설탕 배달](https://www.acmicpc.net/problem/2839) | `진행 완료` |
 | 11/03 | BFS/DFS | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | `진행 완료` |
@@ -176,8 +176,11 @@
 | 11/07 | ?? | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | ${\small{\color{red}진행\ 중}}$ |
 | 11/08 | Simulation | [뱀](https://www.acmicpc.net/problem/3190) | `진행 완료` |
 | 11/10 | BFS/DFS | [이모티콘](https://www.acmicpc.net/problem/14226) | `진행 완료` |
-| 11/12 | ?? | [ACM Craft](https://www.acmicpc.net/problem/1005) | `진행 중` |
-
+| 11/12 | Graph | [ACM Craft](https://www.acmicpc.net/problem/1005) | `진행 완료` |
+| 11/17 ~ 11/21 | ?? | [버블 소트](https://www.acmicpc.net/problem/1517) | ${\small{\color{red}진행\ 중}}$ |
+| 11/24 ~ 11/28 | ?? | [트리 순회](https://www.acmicpc.net/problem/22856) | ${\small{\color{red}진행\ 중}}$ |
+| 12/08 ~ 12/12 | ?? | [??](https://www.acmicpc.net/problem/) | `진행 중` |
+| 12/08 ~ 12/12 | ?? | [??](https://www.acmicpc.net/problem/) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

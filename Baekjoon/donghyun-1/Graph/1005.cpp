@@ -2,7 +2,6 @@
 // ACM Craft (골드 3)
 // 2025-11-12
 
-
 #include <iostream>
 #include <vector>
 #include <queue>

@@ -177,10 +177,11 @@
 | 11/08 | Simulation | [뱀](https://www.acmicpc.net/problem/3190) | `진행 완료` |
 | 11/10 | BFS/DFS | [이모티콘](https://www.acmicpc.net/problem/14226) | `진행 완료` |
 | 11/12 | Graph | [ACM Craft](https://www.acmicpc.net/problem/1005) | `진행 완료` |
-| 11/17 ~ 11/21 | ?? | [버블 소트](https://www.acmicpc.net/problem/1517) | ${\small{\color{red}진행\ 중}}$ |
-| 11/24 ~ 11/28 | ?? | [트리 순회](https://www.acmicpc.net/problem/22856) | `진행 완료` |
-| 12/08 ~ 12/12 | ?? | [??](https://www.acmicpc.net/problem/) | `진행 중` |
-| 12/08 ~ 12/12 | ?? | [??](https://www.acmicpc.net/problem/) | `진행 중` |
+| 11/17 ~ 11/21 | Sorting | [버블 소트](https://www.acmicpc.net/problem/1517) | `진행 완료` |
+| 11/24 ~ 11/28 | Graph | [트리 순회](https://www.acmicpc.net/problem/22856) | `진행 완료` |
+| 12/08 ~ 12/12 | BFS/DFS | [어른 상어](https://www.acmicpc.net/problem/19237) | `진행 완료` |
+| 12/15 ~ 12/19 | BFS/DFS | [나무 재테크](https://www.acmicpc.net/problem/16235) | `진행 중` |
+| 12/15 ~ 12/19 | BFS/DFS | [??](https://www.acmicpc.net/problem/) | `진행 중` |
 
 
 ## 🌐 programmers 코테합 - C++/파이썬 스터디 1기

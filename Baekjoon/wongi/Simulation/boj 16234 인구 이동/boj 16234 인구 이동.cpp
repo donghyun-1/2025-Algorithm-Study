@@ -32,7 +32,7 @@ void clear()
     memset(visited, 0, sizeof(visited));
 }
 void change(vector<int>& curAvgSet)
-{
+{//각 연합의 id에 따라서 평균값 갱신해주는 것
     int arrSize = curAvgSet.size();
     for (int i = 0; i < n; i++)
     {
@@ -129,12 +129,12 @@ int main()
             }
         }
 
-        if (flag)
+        if (flag)//연합이 하나라도 생기면 인구 갱신 ++ , 평균값을 가지고 갱신
         {
             change(groupNumArr);
             answerCnt++;
         }
-        else
+        else//연합 업으면 그냥 종료
         {
             break;
         }

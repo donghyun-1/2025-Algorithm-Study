@@ -82,13 +82,13 @@ int main()
     {
         clearAirBoard();
         airBfs();
-        vector<pair<int, int>> melt;
+        vector<pair<int, int>> melt; //이번 시간에녹을 치즈들 저장 배열
         for (int i = 0; i < n; i++)
         {
             for (int j = 0; j < m; j++)
             {
                 if (board[i][j] == 0)continue;
-                int airCnt=0;
+                int airCnt=0; //현재 칸에서 외부 공기 개수 
                 for (int dir = 0; dir < 4; dir++)
                 {
                     int nx = j + dx[dir];
@@ -97,14 +97,14 @@ int main()
                     if (air[ny][nx] != 1)continue;
                     airCnt++;
                 }
-                if (airCnt >= 2)
+                if (airCnt >= 2)//2 이상이면 녹음
                 {
                     melt.push_back({ i,j });
                     cheeseCnt--;
                 }
             }
         }
-        for (int i = 0; i < melt.size(); i++)
+        for (int i = 0; i < melt.size(); i++)//녹을 치즈를 한번에 마지막에 다 녹임
         {
             board[melt[i].first][melt[i].second] = 0;
         }
